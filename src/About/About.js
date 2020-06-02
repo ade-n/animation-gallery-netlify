@@ -11,7 +11,7 @@ const About = () => {
         first and foremost as I needed a place to reach for animations. I often
         forget how to use them since I am not messing with{" "}
         <a
-          href="/animation-gallery-web"
+          href="/"
           className="text-3xl font-bold hover:text-gray-500 cursor-pointer"
         >
           animations
