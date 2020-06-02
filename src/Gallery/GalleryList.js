@@ -18,7 +18,7 @@ const GalleryList = () => {
   });
 
   return (
-    <div className="w-full mx-auto pt-24">
+    <div className="w-full mx-auto pt-24 pb-12">
       <animated.ul
         scrollTop={props}
         className="sm:mx-auto sm:w-3/5 sm:h-auto sm:flex sm:flex-wrap justify-between"
