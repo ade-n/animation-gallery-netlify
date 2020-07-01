@@ -1,11 +1,6 @@
 import React from "react";
 import GalleryList from "../Gallery/GalleryList";
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  HashRouter,
-} from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import NavBar from "../navBar/NavBar";
 import About from "../About/About";
