@@ -10,7 +10,7 @@ export class NavBar extends Component {
           to="/"
           className="text-2xl text-pink-400 font-mono font-bold hover:text-gray-500"
         >
-          Animations Gallery
+          Animation Gallery
         </Link>
 
         <div className="flex items-center">
