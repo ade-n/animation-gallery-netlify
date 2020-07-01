@@ -5,10 +5,10 @@ import { Link } from "react-router-dom";
 export class NavBar extends Component {
   render() {
     return (
-      <div className="flex justify-between sm:mx-auto sm:w-3/5 py-4 ">
+      <div className="flex justify-between mx-auto  w-3/5 py-4 ">
         <Link
           to="/"
-          className="text-2xl text-pink-400 font-mono font-bold hover:text-gray-500"
+          className="md:text-2xl text-md text-pink-400 font-mono font-bold hover:text-gray-500"
         >
           Animation Gallery
         </Link>
